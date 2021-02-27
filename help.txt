@@ -1,0 +1,8 @@
+instructions---
+
+for frontend --
+you have to save all your html files in "templates" folder, and all your other files like images,videos or anything like that in "static" folder, the JS and CSS files also goes in "static" folder. 
+if you want to link a photo to your html file put that photo in static folder and link the path like -- "./static/__photo_name_or_rest_of_the_path"
+the "./" is important for system to understatnd where the file is located ..so write it carefully.
+you can create more folders in static folder to saprate one type of files from others  then you have to change the path accordingly.
+ Thanks
