@@ -6,3 +6,4 @@ if you want to link a photo to your html file put that photo in static folder an
 the "./" is important for system to understatnd where the file is located ..so write it carefully.
 you can create more folders in static folder to saprate one type of files from others  then you have to change the path accordingly.
  Thanks
+hello
