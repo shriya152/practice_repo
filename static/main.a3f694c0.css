@@ -371,6 +371,13 @@ input[type=search] {
     box-sizing: content-box
 }
 
+.mystyle {
+    float: left;
+}
+
+.section_container_border_section_container {
+    text-align: center;
+}
 
 input[type=search]::-webkit-search-cancel-button,
 input[type=search]::-webkit-search-decoration {
@@ -5818,6 +5825,10 @@ h2 {
     border: none
 }
 
+.img-responsive {
+    margin-left: auto;
+    margin-right: auto;
+}
 
 .btn {
     border: none;
